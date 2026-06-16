@@ -1,0 +1,7 @@
+[
+  {
+    "id": "server1",
+    "name": "Maven IPTV",
+    "url": "http://varnishrcdn.com:80/get.php?username=hm576544&password=ak8373536&type=m3u_plus&output=ts"
+  }
+]

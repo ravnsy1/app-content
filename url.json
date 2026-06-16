@@ -1,0 +1,3985 @@
+[
+    {
+        "channel_id": 10,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/250335.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 1,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://streem.rodoye.com/live/b_2/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://194.76.0.163/gshAXQ2fQa/NZP6JGIxJO//652311?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "جودة متوسطة",
+                "url": "http://het127b.ycn-redirect.com/live/69854211/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة",
+                "url": "http://het107b.ycn-redirect.com/live/10011244/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة جدا",
+                "url": "http://het115c.ycn-redirect.com/live/4798998070/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي",
+                "url": "http://h42.reelpush.online/live/69854211/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "احتياطي 1",
+                "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/318198.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الاسطورة ",
+                "url": "http://go8knm.optikl.ink/Os/index.php/video.m3u8?id=116901&cat=4524",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "خاص بلعراق",
+                "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 20,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/aLqcsoIss-HzQDOFkmnBEU1JlenUijzCuwixoY45H3oZ3qyWh7rUWpocELgKilHtutBejScxDaVsw2uRZKRO9w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7qR4VpobRbmfLkWP6IpqL8M/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 2  HD",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7q115ThOzvzt2RVTPkVgeqw/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "الفجر 4",
+                "url": "http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7h8sNFPvsRZWZPvQW32uHD8/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            }
+        ]
+    },
+    {
+        "channel_id": 2,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/AJcXM51OKyqcq-isdr9YRP_iNdm8f6bm12aXDxZUVWAS8Y7BB2I_XUZfeYrnbel6_KwqI3KlYXjXrGm-wywwNQ/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7iAENoY_k0sJLplwSedI60s/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة متوسطة",
+                "url": "http://het128a.ycn-redirect.com/live/645587700/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة",
+                "url": "http://het140c.ycn-redirect.com/live/161988840/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "https://x.com",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة جدا",
+                "url": "http://het108c.ycn-redirect.com/live/551818447/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 2  HD",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7q115ThOzvzt2RVTPkVgeqw/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 3,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://het139c.ycn-redirect.com/live/9787488847/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7iw57JMGXxYGgyUqrbdsW_E/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة متوسطة",
+                "url": "http://het134c.ycn-redirect.com/live/9787488847/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة",
+                "url": "http://het129c.ycn-redirect.com/live/0103088447/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة جدا",
+                "url": "http://het136c.ycn-redirect.com/live/131326625/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 4,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://het127c.ycn-redirect.com/live/610303030/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://het127c.ycn-redirect.com/live/610303030/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة متوسطة",
+                "url": "http://het130c.ycn-redirect.com/live/610303030/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة",
+                "url": "http://het104b.ycn-redirect.com/live/115451004/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة جدا",
+                "url": "http://het130a.ycn-redirect.com/live/181818444/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 5,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://het140b.ycn-redirect.com/live/1515000000/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7iYj2lf7KFHGteD4y5TDrBE/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 4 HD",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7qEsyJvd1t5DsDmMt4A9H2g/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 17,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6WxNoJTNtP3MGPW-mkNj0r8cFSfR3uagEMAVIwVRnQKUx7NaQyWDi0M1yd2jXSKA8oK_NYhiNr0T16nN7kQ7_Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 3 HD",
+                "url": "https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "FHD",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7gp4k857UKqwGv7-0ofz5Ac/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 0,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://streem.rodoye.com/live/b_1/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652333?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "جودة متوسطة",
+                "url": "http://het136a.ycn-redirect.com/live/918454578001/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة",
+                "url": "http://het127a.ycn-redirect.com/live/978480008877005/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة جدا",
+                "url": "http://het129a.ycn-redirect.com/live/31009988005/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي",
+                "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ilYWEUITExQvr7p-Dd9xoR_XOULM8GQ76Ff1BQfEQORGIm7_5HiVTPGRBWAklNN3TaV72Dv9p7d3CyWHEIVUVA/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الوان 1",
+                "url": "http://go8knm.optikl.ink/Os/index.php/video.m3u8?id=156588&cat=7193",
+                "user_agent": "Mozilla/5.0",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "خاص بلعراق",
+                "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الاسطورة ",
+                "url": "http://go8knm.optikl.ink/Os/index.php/video.m3u8?id=116900&cat=4523",
+                "user_agent": "Mozilla/5.0",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "4K",
+                "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/318197.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الوان 3 ",
+                "url": "https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            }
+        ]
+    },
+    {
+        "channel_id": 23,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "dd51609092fff15e68b91debf5d591f9",
+                "clearkey_kid": "ab081a704aad41829b1123b09b6ecafd",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 24,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "ad7000691326064706281a700b7d6714",
+                "clearkey_kid": "50a7f3afc00a40b38face4db639d0e4c",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 25,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "1267f99705113a62c7782c4d5281a7eb",
+                "clearkey_kid": "6477160076644679af1028534f03f67e",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 26,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "1267f99705113a62c7782c4d5281a7eb",
+                "clearkey_kid": "6477160076644679af1028534f03f67e",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 27,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "1267f99705113a62c7782c4d5281a7eb",
+                "clearkey_kid": "6477160076644679af1028534f03f67e",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة متعددة",
+                "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "1267f99705113a62c7782c4d5281a7eb",
+                "clearkey_kid": "6477160076644679af1028534f03f67e",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 21,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://185.191.126.127:8080/live/%204750034742512197/3177932697568638/421392.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 22,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/6WCnEP8EaVVQg8AIFilpPGrrKeb_MBGi-NsIxDyjcna86FggtWm4_Q87XcfHvfz2xZa0fnTZGzPEoKue1kfqQA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 28,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 29,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 30,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 31,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 32,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 33,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 34,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 35,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 36,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 37,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 42,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://stream-lb.livemedia.ma/arryadia-tnt/hls/stream_2/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 43,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 44,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.arabic-ch.space/live/006900/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 45,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.arabic-ch.space/live/007000/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 46,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://ksauae.xyz:8080/live/462738737337/352672622626/97805.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 47,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://ksauae.xyz:8080/live/462738737337/352672622626/97806.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 38,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://ksauae.xyz:8080/live/462738737337/352672622626/97813.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 39,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://ksauae.xyz:8080/live/462738737337/352672622626/97814.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 41,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://ksauae.xyz:8080/live/462738737337/352672622626/141797.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 48,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://ksauae.xyz:8080/live/462738737337/352672622626/97807.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 117,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 116,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 118,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 119,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 120,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 121,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 122,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 123,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 124,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 125,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 126,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 127,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 93,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 94,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "17774f82a3b9e33ea7a149596acbb20f",
+                "clearkey_kid": "e3ce77324a3d4fa2a913b26cc1976052",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 86,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.ch-arabic.buzz/live/076/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 87,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.ch-arabic.buzz/live/077/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 88,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.ch-arabic.buzz/live/078/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 89,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.ch-arabic.buzz/live/079/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 92,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.ch-arabic.buzz/live/072/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 90,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.ch-arabic.buzz/live/080/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 91,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://apk.ch-arabic.buzz/live/081/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 95,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 96,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 97,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 98,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://185.9.2.18/chid_378/mono.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 99,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 100,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 101,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 102,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 103,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 104,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 105,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "17774f82a3b9e33ea7a149596acbb20f",
+                "clearkey_kid": "e3ce77324a3d4fa2a913b26cc1976052",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 106,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 107,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 108,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx014/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 109,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx013/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 110,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx010/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 111,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx003/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 112,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx008/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 113,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx009/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 114,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-amg-fast.edgenextcdn.net/tx015/1080p-d/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 115,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 128,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 129,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-P610 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Safari/537.36",
+                "referer": "https://rotana.net/",
+                "origin": "https://rotana.net/",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 130,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 131,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "https://shahid.mbc.net/",
+                "origin": "https://shahid.mbc.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 132,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 134,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/96560.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 135,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/96562.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 133,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/86321000461/6731909777/263052",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 69,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/273005.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 71,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/273004.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 70,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/273003.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 72,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/273002.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 73,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/273001.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 77,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/273000.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 78,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/272999.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 84,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/272989.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 82,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/272988.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 80,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/272986.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 81,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/86321000461/6731909777/203187",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 79,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/86321000461/6731909777/203186",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 85,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/366101.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 83,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/272990.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 75,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/82702.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 74,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/live/86321000461/6731909777/82701.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 76,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://uv0wwz.m4rv3l.online/86321000461/6731909777/82703",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 18,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/ebvNiajfKMSa68YYr8Vdy8rqCq7dkcjIYbtmk31qgC6btuNdgOJIzFGPqlywWtKA53E-rFh1LoABsX14klKCgA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "FHD",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7hSKJrh5oNuGurjbxzUSPhw/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 19,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/tcJ7l_IwlsWvLu_XiyIonTNMJ3mpBCdkcr9ydu3kVxQcSmukbJX0t4yd7jXJeI8Q1UlHW746GpJpxFh5IwT31w/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 63,
+        "servers": [
+            {
+                "name": "TNT1",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://otte.cache.aiv-cdn.net/bom-nitro/",
+                "origin": "https://otte.cache.aiv-cdn.net/bom-nitro",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "52148f1042d238849f0a7813f1da8a7b",
+                "clearkey_kid": "294b5761cefc22d0c6312939e13d8278",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 7,
+        "servers": [
+            {
+                "name": "جودة عاليه",
+                "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7lZ9uaXeKhI8DNK1lHwCXWs/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 136,
+        "servers": [
+            {
+                "name": "bein fr 1",
+                "url": "https://d8vgvfuq.39564828.net:8443/hls/ysagetp2j4x.m3u8?s=pGtptA4sJ6SI0vW8xFnBrQ&e=1779659984",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                "referer": "https://cordneutral.net/",
+                "origin": "https://cordneutral.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 137,
+        "servers": [
+            {
+                "name": "bein fr 2",
+                "url": "https://d8vgvfuq.39564828.net:8443/hls/wedpl8t.m3u8?s=X6MHeWsGH-qrbre3wW_Xfw&e=1779660304",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                "referer": "https://cordneutral.net/",
+                "origin": "https://cordneutral.net",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 138,
+        "servers": [
+            {
+                "name": "bein fr 3",
+                "url": "http://145.239.5.177/559/tracks-v1a1/mono.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 139,
+        "servers": [
+            {
+                "name": "bein fr 4",
+                "url": "http://145.239.5.177/515/tracks-v1a1/mono.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 140,
+        "servers": [
+            {
+                "name": "bein fr 5",
+                "url": "http://145.239.5.177/572/tracks-v1a1/mono.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 141,
+        "servers": [
+            {
+                "name": "bein 1 en",
+                "url": "http://185.191.126.127/%204750034742512197/3177932697568638/318217",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 142,
+        "servers": [
+            {
+                "name": "bein 2 en",
+                "url": "http://185.191.126.127/%204750034742512197/3177932697568638/318218",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 14,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/QymvhwTiSwsXzz-JQh3UzgacyZ_7Ffl-i9do3Z3ll_bGKW_KTSGAnkEuhXX3kuf9A4V_XouxHBeN5wRxi3Eing/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://g.noventix.cc/at/sh/914472?token=ShN0YQ0JGlhBVEk9ShAWG04kBi5fWQJEC0E8WgsHJDJHQQQJQQQQQ1JHG0EQQQQQQQ0QQQ0UWwVQAVVQUwxNQ0QQQQQQQQxAWUcQAQQQQQQQRhVGQQQQQUcNUFJQDFFQBQQACEgSQQQQRw1BQQQHQQQQQEYcFAQQQQQQQQQQQQQQQQQQQRICDBYJW09EV1xnBQFUBV5SQw5HBkNJRAQQQRMLXEQIXBRAAQxDEQdMVxpbRghcBwBDGEdUDhAITRMYEwsQdSESFEAGHUMGCEtbVw9GA0ZERUMYR14SOhRcEhVDVFNcAUIaWEFVFU9EVVNAPgdWCl5TAkAMQQQQRANDQBMdEFQQQQQQAQQQEQQQEAJDQQQQQQQQQ0dK",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة متوسطة",
+                "url": "http://het134a.ycn-redirect.com/live/610303030/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "جودة ضعيفة",
+                "url": "http://het4444.ycn-redirect.com/live/115451004/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة جدا",
+                "url": "http://het4444.ycn-redirect.com/live/181818444/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الاسطورة ",
+                "url": "http://go8knm.optikl.ink/Os/index.php/video.m3u8?id=154472&cat=7031",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 1 ",
+                "url": "https://match-now.live/os/play.m3u8?id=156588&cat=7193",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 1 FHD",
+                "url": "http://194.35.227.100:8080/live/0516937511/7811692199/402373?token=SUN0Qx9SEF4WamQaFURnSWA0RmNGfxRVEmUASmkXQQMDSmAbS0QcQmQWFRQmHQcABDoYaAAUCVBQAQAAOxVADA9ERmxeABBeAQIMA1YCHxNADQtQEwwCVFEEDA0IDFEDHkNEWlNGCApBWFUaR1JLRVEWCFRdaVcGE1xbXRMDDEdeDRgRWAptAFFZWFgBFQkTBUZKF1hFQ0FfW01UXRVAUFsVRlJDARBeWkFVWkkVUF5BChJHSBQJQSxkGhQTXBpGVw9HWlgKEF4WQEoUSRVaQmsWA0ZFRFYCCFBKGgsJThBfAExsVAtcClFXTV8KWUATDlVKF1xZXQoRWkpnQVAGEAgPQV9bGQ",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "MAX 1 4K",
+                "url": "https://live.aab1.top/live/odai/123321/9087.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "MAX 1 SD",
+                "url": "http://194.60.93.157/proxy?url=http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/460863.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "احتياطي",
+                "url": "http://virtualdbxv.com:8080/alwan1hd/tracks-v1a1/mono.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 1",
+                "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291512.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 2",
+                "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291500.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 3",
+                "url": "https://live.aab1.top/live/odai/123321/66.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "1080p",
+                "url": "http://g.noventix.cc/at/sh/914472?token=ShN0YQ0JGlhBVEk9ShAWG04kBi5fWQJEC0E8WgsHJDJHQQQJQQQQQ1JHG0EQQQQQQQ0QQQ0UWwVQAVVQUwxNQ0QQQQQQQQxAWUcQAQQQQQQQRhVGQQQQQUcNUFJQDFFQBQQACEgSQQQQRw1BQQQHQQQQQEYcFAQQQQQQQQQQQQQQQQQQQRICDBYJW09EV1xnBQFUBV5SQw5HBkNJRAQQQRMLXEQIXBRAAQxDEQdMVxpbRghcBwBDGEdUDhAITRMYEwsQdSESFEAGHUMGCEtbVw9GA0ZERUMYR14SOhRcEhVDVFNcAUIaWEFVFU9EVVNAPgdWCl5TAkAMQQQQRANDQBMdEFQQQQQQAQQQEQQQEAJDQQQQQQQQQ0dK",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "900p",
+                "url": "http://89.36.94.238:8080/live/0516937511/7811692199/408645?token=SUN0Qx9SEF4WamQaFURnSWA0RmNGfxRVEmUASmkXQQMDSmAbS0QcQmQWFRQmHQcABDoYaAAUCVBQAQAAOxVADA9ERmxeABBeAQIMA1YCHxNADQtQEwwCVFEEDA0IDFEDHkNEWlNGCApBWFUaR1JLRVEWCFRdaVcGE1xbXRMDDEdeDRgRWAptAFFZWFgBFQkTBUZKF1hFQ0FfW01UXRVAUFsVRlJDARBeWkFVWkkVUF5BChJHSBQJQSxkGhQTXBpGVw9HWlgKEF4WQEoUSRVaQmsWA0ZFRFYCCFBKGgsJThBfAExsVAtcClFXTV8KWUATDlVKF1xZXQoRWkpnQVAGEAgPQV9bGQ",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "Be Syria 1",
+                "url": "http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "Be Syria 2",
+                "url": "http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "Be Syria 3",
+                "url": "http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "NM",
+                "url": "https://raw.githubusercontent.com/zzzz12099/Live/refs/heads/main/SD%201.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 15,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/NLvMMRwQpiDixZiFRTh0VEVjGxj8LKn0RPAY6N_rRIu0nUigzwpxzZTVnT1AwQX5vQzF3CiES7UbFHzn_1-oyw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة عالية",
+                "url": "http://g.datovrix.cc/live/at/sh/914473.ts.ts?token=ShN0YQ0JGlhBVEk9ShAWG04kBi5fWQJEC0E8WgsHJDJHQQQJQQQQQ1JHG0EQQQQQQQ0QQQ0UWwVQAVVQUwxNQ0QQQQQQQQxAWUcQAQQQQQQQRhVGQQQQQUcNUFJQDFFQBQQACEgSQQQQRw1BQQQHQQQQQEYcFAQQQQQQQQQQQQQQQQQQQRICDBYJW09EV1xnBQFUBV5SQw5HBkNJRAQQQRMLXEQIXBRAAQxDEQdMVxpbRghcBwBDGEdUDhAITRMYEwsQdSESFEAGHUMGCEtbVw9GA0ZERUMYR14SOhRcEhVDVFNcAUIaWEFVFU9EVVNAPgdWCl5TAkAMQQQQRANDQBMdEFQQQQQQAQQQEQQQEAJDQQQQQQQQQ0dK",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة متوسطة",
+                "url": "http://het125c.ycn-redirect.com/live/1515000000/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة",
+                "url": "http://het4444.ycn-redirect.com/live/788550011/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "جودة ضعيفة جدا",
+                "url": "http://het122c.ycn-redirect.com/live/9883322/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الاسطورة",
+                "url": "http://go8knm.optikl.ink/Os/index.php/video.m3u8?id=154473&cat=7031",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 1",
+                "url": "https://match-now.live/os/play.m3u8?id=156588&cat=7193",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الوان 1 FHD",
+                "url": "http://194.35.227.100:8080/live/0516937511/7811692199/402373?token=SUN0Qx9SEF4WamQaFURnSWA0RmNGfxRVEmUASmkXQQMDSmAbS0QcQmQWFRQmHQcABDoYaAAUCVBQAQAAOxVADA9ERmxeABBeAQIMA1YCHxNADQtQEwwCVFEEDA0IDFEDHkNEWlNGCApBWFUaR1JLRVEWCFRdaVcGE1xbXRMDDEdeDRgRWAptAFFZWFgBFQkTBUZKF1hFQ0FfW01UXRVAUFsVRlJDARBeWkFVWkkVUF5BChJHSBQJQSxkGhQTXBpGVw9HWlgKEF4WQEoUSRVaQmsWA0ZFRFYCCFBKGgsJThBfAExsVAtcClFXTV8KWUATDlVKF1xZXQoRWkpnQVAGEAgPQV9bGQ",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "MAX 2 4K",
+                "url": "https://raw.githubusercontent.com/zzzz12099/Nova1/refs/heads/main/bein7.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "MAX 2 HD",
+                "url": "https://live.aab1.top/live/odai/123321/67.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "MAX 2 SD",
+                "url": "http://135.125.196.66//s2_bn_max_2_sd/tracks-v1a1/mono.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي",
+                "url": "https://bluesport.fun/live/blue_sport_1/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 1",
+                "url": "https://bluesport.fun/live/blue_sport_2/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 2",
+                "url": "https://live.aab1.top/live/odai/123321/67.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 3",
+                "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744518.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 4",
+                "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 16,
+        "servers": [
+            {
+                "name": "جودة متعددة",
+                "url": "http://het109a.ycn-redirect.com/live/33523510/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "الاسطورة",
+                "url": "http://go8knm.optikl.ink/Os/index.php/video.m3u8?id=154474&cat=7031",
+                "user_agent": "Mozilla/5.0",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 143,
+        "servers": [
+            {
+                "name": "الوان 1 متعدد",
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jL0bhps1vMk1V4xz-OiJXZuqWiMoPrMwwNe0uOH7lDqkY-drsO0GymtGq99um7IFYtMNT7naAskkj-2ytRSCWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الفجر  1 1080p",
+                "url": "https://cdn4-mejarhosting.cfd/ftv1_1080p/index.mpd",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "0535811d2fa5a44be28d9562d2ab0ce2",
+                "clearkey_kid": "a9e6463f2fd04597fcaabe18b12926c5",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الفجر 3 720p",
+                "url": "https://cdn4-mejarhosting.cfd/ftv3_720p/index.mpd",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "0535811d2fa5a44be28d9562d2ab0ce2",
+                "clearkey_kid": "d92416f4421ac2b2f3c9131f8d7ecc86",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الوان 1 ",
+                "url": "http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nUUlBeGgd9sI7PeKoSQ0Tg/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الوان 2",
+                "url": "http://go8knm.optikl.ink/Ost/index.php/video.m3u8?id=156589&cat=7193",
+                "user_agent": "Mozilla/5.0",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الاسطورة 2",
+                "url": "http://go8knm.optikl.ink/Ost/index.php/video.m3u8?id=116901&cat=4524",
+                "user_agent": "Mozilla/5.0",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "beIN 1 4K",
+                "url": "http://live.alkatlantv.com:8888/bein1_4k/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "beIN 1 HD",
+                "url": "http://82.39.115.26:8888/Hd/tracks-v1a1/mono.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "الفجر 1",
+                "url": "https://cdn4-mejarhosting.cfd/ftv1_1080p/index.mpd",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "0535811d2fa5a44be28d9562d2ab0ce2",
+                "clearkey_kid": "a9e6463f2fd04597fcaabe18b12926c5",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "beIN 2 4K",
+                "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261624.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "beIN 2 HD",
+                "url": "http://live.alkatlantv.com:8888/bein2/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "جودة متعددة",
+                "url": "https://match-now.site/hls/b1/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "جودة ضعيفة 1",
+                "url": "http://het127a.ycn-redirect.com/live/978480008877005/index.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://x.com/",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            },
+            {
+                "name": "الاردنية الرياضية متعدد",
+                "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/3Fmv92NnJ6aWa4p6KfXofFE5vu7IY3RCnD98NPNHwwxtX-o2_TE6VUthDPvr8jNhtCumykz5nu53wbF_XT_SyA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false,
+                "widevine_key": "",
+                "widevine_kid": ""
+            },
+            {
+                "name": "الاردنية الرياضية HD",
+                "url": "http://93.184.10.248/JordanSport/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي",
+                "url": "http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nUUlBeGgd9sI7PeKoSQ0Tg/ts",
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+                "referer": "http://23370wa.xyz/",
+                "origin": "http://23370wa.xyz",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 1",
+                "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418112.ts",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            },
+            {
+                "name": "احتياطي 2",
+                "url": "http://93.184.10.248/JordanSport/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": true
+            }
+        ]
+    },
+    {
+        "channel_id": 144,
+        "servers": [
+            {
+                "name": "ماجستك افلام",
+                "url": "https://blc2cr.linkip.org/live/90109_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 145,
+        "servers": [
+            {
+                "name": "ماجستك سينما",
+                "url": "https://blc2cr.linkip.org/live/90108_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 146,
+        "servers": [
+            {
+                "name": "ماجستك مسرح",
+                "url": "https://blc2cr.linkip.org/live/90113_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 147,
+        "servers": [
+            {
+                "name": "ماجستك زمان",
+                "url": "https://blc2cr.linkip.org/live/90112_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 148,
+        "servers": [
+            {
+                "name": "ماجستك كلاسيك",
+                "url": "https://blc2cr.linkip.org/live/90111_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 149,
+        "servers": [
+            {
+                "name": "ماجستك افلام 2",
+                "url": "https://blc2cr.linkip.org/live/90110_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 150,
+        "servers": [
+            {
+                "name": "ماجستك فنتازيا",
+                "url": "https://blc2cr.linkip.org/live/90121_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 151,
+        "servers": [
+            {
+                "name": "ماجستك كرايم",
+                "url": "https://blc2cr.linkip.org/live/90122_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 152,
+        "servers": [
+            {
+                "name": "ماجستك اكشن",
+                "url": "https://blc2cr.linkip.org/live/90120_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 153,
+        "servers": [
+            {
+                "name": "ماجستك هندي",
+                "url": "https://blc2cr.linkip.org/live/90114_.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 64,
+        "servers": [
+            {
+                "name": "TNT 2",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://otte.cache.aiv-cdn.net/bom-nitro/",
+                "origin": "https://otte.cache.aiv-cdn.net/bom-nitro",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "9f18d26291d9230833501f7f822f6875",
+                "clearkey_kid": "f288380ca4cef9ad3f27a92a08e9bb8b",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 65,
+        "servers": [
+            {
+                "name": "TNT 3",
+                "url": "http://197.220.88.26:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 66,
+        "servers": [
+            {
+                "name": "TNT 4",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "referer": "https://otte.cache.aiv-cdn.net/bom-nitro/",
+                "origin": "https://otte.cache.aiv-cdn.net/bom-nitro",
+                "cookie": "",
+                "drm_scheme": "clearkey",
+                "clearkey_key": "634e10efe4abbb14be400a3ccbac0258",
+                "clearkey_kid": "192b1115da041585c77200128549efa1",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 68,
+        "servers": [
+            {
+                "name": "ريال مدريد ",
+                "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    },
+    {
+        "channel_id": 67,
+        "servers": [
+            {
+                "name": "برشلونة",
+                "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb7d3e4f7b726f8fcec9396cd8f546f4d1553681573ad73d67ae5e9523c31a5386b8f4c2e74fb93a09bd6daa30562b080678c907df6201d7c606f10f71341c64ff93a20a87cd5056eb8c1f2b2ab86a7d2ce36e13d1254350cce0160cca0c8528245db9503e0163dcf359af764bd79459dd7f2d8efed96924780e5797405ce4f65fbeaeb75f41c53ea7b14940977b11b48313cdb66281a0ecc03061ac4495768fa494ce914bd7cfb35c9365c3077993a6e0fbfa1db2da54b7a0fa2359ce3440426f0197f5cf23ac18a63eb233e2a9002139df59a1ac30936f27be4fb15c90318469bf059dee248289bad3544832eb96153069f0a5e8a6f23b26a53dbb97b29d52729de41b7143893c88796b0bbdb0fb42d59355b4a32a89b0262c0891b00bcac4e2d4bee1c31ace7583b599f25a634067160d8f59d0f83c8b53a712cffd122c4f584aaae832f787d44d256c48c4e66ad51117bccf81e18b5bdbab9f9bce5806be5541b388abdfcc65c92bbc124522a3/45/1920x1080_5129264/index.m3u8",
+                "user_agent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drm_scheme": "",
+                "clearkey_key": "",
+                "clearkey_kid": "",
+                "widevine_key": "",
+                "widevine_kid": "",
+                "drm_license_url": "",
+                "headers": [],
+                "hidden": false
+            }
+        ]
+    }
+]
