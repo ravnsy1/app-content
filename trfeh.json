@@ -2,6 +2,6 @@
   {
     "id": "server1",
     "name": "Maven IPTV",
-    "url": "http://hyprime.cc/get.php?username=aldewa1an05&password=dekmy52d&type=m3u_plus"
+    "url": "http://hyprime.cc:80/get.php?username=aldewa1an05&password=dekmy52d&type=m3u_plus"
   }
 ]
