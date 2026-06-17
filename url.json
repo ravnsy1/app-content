@@ -3272,11 +3272,11 @@
         "hidden": false
       },
       {
-        "name": "احتياطي 1",
-        "url": "https://bluesport.fun/live/blue_sport_2/index.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-P610 Build/QP1A.190711.020)",
-        "referer": "https://x.com",
-        "origin": "https://x.com",
+        "name": "الاسطورة SD",
+        "url": "https://match-now.live/os/play.m3u8?id=158577&cat=7224",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+        "referer": "",
+        "origin": "",
         "cookie": "",
         "drm_scheme": "",
         "clearkey_key": "",
@@ -3288,11 +3288,11 @@
         "hidden": false
       },
       {
-        "name": "الاسطورة SD",
-        "url": "https://match-now.live/os/play.m3u8?id=158577&cat=7224",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-        "referer": "",
-        "origin": "",
+        "name": "احتياطي 1",
+        "url": "https://bluesport.fun/live/blue_sport_2/index.m3u8",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-P610 Build/QP1A.190711.020)",
+        "referer": "https://x.com",
+        "origin": "https://x.com",
         "cookie": "",
         "drm_scheme": "",
         "clearkey_key": "",
