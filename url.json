@@ -3256,9 +3256,9 @@
         "hidden": false
       },
       {
-        "name": "MAX 2 SD",
-        "url": "http://135.125.196.66//s2_bn_max_2_sd/tracks-v1a1/mono.m3u8",
-        "user_agent": "",
+        "name": "الاسطورة LOW",
+        "url": "https://match-now.live/os/play.m3u8?id=158577&cat=7224",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
         "referer": "",
         "origin": "",
         "cookie": "",
@@ -3272,9 +3272,9 @@
         "hidden": false
       },
       {
-        "name": "الاسطورة LOW",
-        "url": "https://match-now.live/os/play.m3u8?id=158577&cat=7224",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+        "name": "MAX 2 SD",
+        "url": "http://135.125.196.66//s2_bn_max_2_sd/tracks-v1a1/mono.m3u8",
+        "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
