@@ -2528,7 +2528,7 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "http://uv0wwz.m4rv3l.online/86321000461/6731909777/82703",
+        "url": "https://stm.linkip.org/live/1832_.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "referer": "",
         "origin": "",
@@ -2538,7 +2538,9 @@
         "clearkey_kid": "",
         "drm_license_url": "",
         "headers": [],
-        "hidden": false
+        "hidden": false,
+        "widevine_key": "",
+        "widevine_kid": ""
       }
     ]
   },
