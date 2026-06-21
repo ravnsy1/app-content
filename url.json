@@ -3363,7 +3363,7 @@
       },
       {
         "name": "احتياطي 3",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PdzfehAP7Iu0auBoZRyh6Rn0ZPJQDHNf3pjTiztm7lP3CRYTXCce1eV9AGYsZxXpJCXlFq0AO1lXKxMvJfGHgA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "http://217.60.15.235:2095/live/omar777/01103978590/460865.ts?token=yafHbHd.UXzyUcb.X.fHzfbaa.ydzdzzzzcf.X.y.EG.ts.77160b64538e7ff5ef17cb6b0741bb7e29e6b7e9d555146708740b5f199f9119.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
         "user_agent": "",
         "referer": "",
         "origin": "",
