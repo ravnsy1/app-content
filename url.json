@@ -3429,6 +3429,22 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
+      },
+      {
+        "name": "SS",
+        "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "widevine_key": "",
+        "widevine_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
       }
     ]
   },
