@@ -65,863 +65,888 @@
     "xtream_url": "http://b1718o.top/get.php?username=0043299174&password=5378954677&type=m3u_plus",
     "hidden": false,
     "stream_format": "m3u8",
-    "selected_packages": [],
+    "selected_packages": [
+      "155",
+      "173",
+      "299",
+      "203",
+      "131",
+      "297",
+      "231",
+      "314",
+      "313",
+      "48",
+      "46",
+      "159",
+      "23",
+      "156",
+      "4",
+      "332",
+      "331",
+      "330",
+      "329",
+      "264",
+      "400",
+      "267",
+      "169",
+      "269",
+      "273",
+      "2",
+      "190",
+      "149",
+      "234",
+      "242",
+      "6",
+      "9",
+      "204",
+      "11",
+      "7",
+      "176",
+      "275",
+      "272",
+      "279",
+      "282",
+      "287",
+      "283",
+      "291",
+      "278",
+      "281",
+      "280",
+      "288",
+      "293",
+      "286",
+      "277",
+      "292",
+      "290",
+      "284",
+      "285",
+      "386",
+      "253",
+      "183",
+      "181",
+      "250",
+      "252",
+      "246",
+      "249",
+      "251",
+      "247",
+      "255",
+      "254",
+      "248",
+      "19",
+      "182",
+      "18",
+      "45",
+      "10",
+      "237",
+      "24",
+      "195",
+      "241",
+      "184",
+      "238",
+      "8",
+      "20",
+      "13",
+      "22",
+      "191",
+      "198",
+      "15",
+      "16",
+      "179",
+      "178",
+      "142",
+      "25",
+      "44",
+      "187",
+      "199",
+      "325",
+      "324",
+      "323",
+      "322",
+      "320",
+      "321",
+      "327",
+      "326",
+      "265",
+      "266",
+      "383",
+      "201",
+      "42",
+      "43",
+      "205",
+      "76",
+      "30",
+      "385",
+      "31",
+      "398",
+      "342",
+      "343",
+      "375",
+      "384",
+      "397",
+      "371",
+      "350",
+      "351",
+      "347",
+      "348",
+      "352",
+      "393",
+      "380",
+      "381",
+      "382",
+      "373",
+      "374",
+      "369",
+      "362",
+      "363",
+      "349",
+      "364",
+      "365",
+      "366",
+      "339",
+      "340",
+      "341",
+      "372",
+      "359",
+      "360",
+      "361",
+      "356",
+      "357",
+      "358",
+      "353",
+      "354",
+      "355",
+      "334",
+      "336",
+      "335",
+      "337",
+      "338",
+      "14365",
+      "377",
+      "378",
+      "379",
+      "395",
+      "396",
+      "344",
+      "345",
+      "346",
+      "333",
+      "367",
+      "368",
+      "370",
+      "376",
+      "389",
+      "387",
+      "388",
+      "394",
+      "399",
+      "302",
+      "301"
+    ],
     "xtream_categories": [
       {
-        "id": "1828",
-        "name": "AR | BEIN SPORTS [MSHARE]"
+        "id": "155",
+        "name": "✅ AD - تحديثات و إعلانات"
       },
       {
-        "id": "1830",
-        "name": "AR | PREMIUM SPORTS"
+        "id": "173",
+        "name": "HOLY QURAN - القرآن الكريم"
       },
       {
-        "id": "1817",
-        "name": "EU | FRANCE GENERAL"
+        "id": "299",
+        "name": "✅ BEIN MAX SD | كأس العالم"
       },
       {
-        "id": "1818",
-        "name": "EU | FRANCE SPORTS"
+        "id": "203",
+        "name": "✅ BEIN MAX HD | كأس العالم"
       },
       {
-        "id": "1983",
-        "name": "FR| LIGUE 1 +"
+        "id": "131",
+        "name": "✅ BEIN MAX 4K | كأس العالم"
       },
       {
-        "id": "1819",
-        "name": "EU | FRANCE NEWS"
+        "id": "297",
+        "name": "✅ BEIN MAX HEVC | كأس العالم"
       },
       {
-        "id": "1820",
-        "name": "EU | FRANCE CINEMA"
+        "id": "231",
+        "name": "✅ TOD by BEIN ⚽ الرياضية"
       },
       {
-        "id": "1821",
-        "name": "EU | FRANCE ENTERTAINMENT"
+        "id": "314",
+        "name": "✅ ALWAN CH | قنوات ألوان"
       },
       {
-        "id": "1822",
-        "name": "EU | FRANCE KIDS"
+        "id": "313",
+        "name": "✅ World Cup 2026 Ch"
       },
       {
-        "id": "1856",
-        "name": "EU| FRANCE DOM TOM "
+        "id": "48",
+        "name": "Ⓜ️ MBC 4K - إم بي سي"
       },
       {
-        "id": "1827",
-        "name": "EU | SPAIN FHD"
+        "id": "46",
+        "name": "Ⓜ️ MBC HD & SD - إم بي سي"
       },
       {
-        "id": "1442",
-        "name": "EU | SPAIN HEVC"
-      },
-      {
-        "id": "1942",
-        "name": "EU | SPAIN HD"
-      },
-      {
-        "id": "1943",
-        "name": "EU | SPAIN SD"
-      },
-      {
-        "id": "1823",
-        "name": "EU | BELGUIM"
-      },
-      {
-        "id": "17",
-        "name": "PORTUGAL"
-      },
-      {
-        "id": "1939",
-        "name": " EU | NL UHD"
-      },
-      {
-        "id": "1096",
-        "name": "EU | NL FHD"
-      },
-      {
-        "id": "1847",
-        "name": "EU | NL HD"
-      },
-      {
-        "id": "1848",
-        "name": "EU | NL SPORT"
-      },
-      {
-        "id": "1824",
-        "name": "EU | NL EVENTS"
-      },
-      {
-        "id": "1945",
-        "name": "EU | NL VIDEOLAND"
-      },
-      {
-        "id": "1947",
-        "name": "EU | GERMANY FHD"
-      },
-      {
-        "id": "10",
-        "name": "EU | GERMANY HD"
-      },
-      {
-        "id": "1946",
-        "name": "EU | GERMANY SD"
-      },
-      {
-        "id": "1339",
-        "name": "UK| GENERAL"
-      },
-      {
-        "id": "1334",
-        "name": "UK| KIDS"
-      },
-      {
-        "id": "1335",
-        "name": "UK| ENTERTAINMENT"
-      },
-      {
-        "id": "1336",
-        "name": "UK| MOVIES"
-      },
-      {
-        "id": "1354",
-        "name": "UK| MUSIC"
-      },
-      {
-        "id": "1337",
-        "name": "UK| DOCUMENTARY"
-      },
-      {
-        "id": "1338",
-        "name": "UK| SPORTS"
+        "id": "159",
+        "name": "✅ BEIN SPORTS SD ⚽ بي إن"
       },
       {
         "id": "23",
-        "name": "EU| INDIA UK"
+        "name": "✅ BEIN SPORTS HD ⚽ بي إن"
       },
       {
-        "id": "1873",
-        "name": "KAMIKAZE TNT SPORT"
+        "id": "156",
+        "name": "✅ BEIN SPORTS 4K ⚽ بي إن"
       },
       {
-        "id": "1872",
-        "name": "KAMIKAZE NATIONAL LEAGUE"
+        "id": "4",
+        "name": "✅ BEIN SPORTS HEVC ⚽ بي إن"
       },
       {
-        "id": "1874",
-        "name": "KAMIKAZE SPFL"
+        "id": "332",
+        "name": "✅ THMANYAH ( V ) ثمانية حصرية"
       },
       {
-        "id": "1875",
-        "name": "KAMIKAZE Hub Premier"
+        "id": "331",
+        "name": "✅ THMANYAH SPORT SD | ثمانية"
       },
       {
-        "id": "1876",
-        "name": "KAMIKAZE PDC"
+        "id": "330",
+        "name": "✅ THMANYAH SPORT HD | ثمانية"
       },
       {
-        "id": "1877",
-        "name": "KAMIKAZE DAZN"
+        "id": "329",
+        "name": "✅ THMANYAH SPORT 4K | ثمانية"
       },
       {
-        "id": "1878",
-        "name": "KAMIKAZE MiLB"
+        "id": "264",
+        "name": "✅ SHAHID SPORTS ⚽ الرياضية"
       },
       {
-        "id": "1879",
-        "name": "KAMIKAZE FLO"
+        "id": "400",
+        "name": "✅ SHASHA SPORT | شاشا"
       },
       {
-        "id": "1880",
-        "name": "KAMIKAZE UEFA"
+        "id": "267",
+        "name": " ✅ BEIN SPORTS XTRA ⚽ بي إن"
       },
       {
-        "id": "1881",
-        "name": "KAMIKAZE SETANTA"
+        "id": "169",
+        "name": "✅ ABU DHABI SPORT ⚽ الرياضية"
       },
       {
-        "id": "1884",
-        "name": "KAMIKAZE Amazon"
+        "id": "269",
+        "name": "✅ AL KASS SPORTS ⚽ الرياضية"
       },
       {
-        "id": "1885",
-        "name": "KAMIKAZE Clubber"
+        "id": "273",
+        "name": "✅ KSA SPORTS ⚽ الرياضية"
       },
       {
-        "id": "1886",
-        "name": "KAMIKAZE World Cup"
+        "id": "2",
+        "name": "MY HD - ماي اتش دي"
       },
       {
-        "id": "1888",
-        "name": "KAMIKAZE DIRTVISION"
+        "id": "190",
+        "name": "STC TV - اس تي سي"
       },
       {
-        "id": "1890",
-        "name": "KAMIKAZE LIVE EVENT"
+        "id": "149",
+        "name": "STARZ PLAY - ستارز بلاي"
       },
       {
-        "id": "1889",
-        "name": "KAMIKAZE LIVE FOOTBALL"
+        "id": "234",
+        "name": "CRICKET SPORTS - كريكت"
       },
       {
-        "id": "1896",
-        "name": "KAMIKAZE Whl"
+        "id": "242",
+        "name": "AL FAJER - قنوات الفجر"
       },
       {
-        "id": "1893",
-        "name": "KAMIKAZE EPL"
+        "id": "6",
+        "name": "⚽ ARABIC SPORTS ⚽ الرياضة العربية"
       },
       {
-        "id": "1894",
-        "name": "KAMIKAZE QMJHL"
+        "id": "9",
+        "name": "NEWS - الاخبار"
       },
       {
-        "id": "1891",
-        "name": "KAMIKAZE TRILLER"
+        "id": "204",
+        "name": "ALMAJD - المجد"
       },
       {
-        "id": "1895",
-        "name": "KAMIKAZE Ohl"
+        "id": "11",
+        "name": "ISLAMIC - الاسلامية"
       },
       {
-        "id": "1903",
-        "name": "KAMIKAZE Eurosport"
+        "id": "7",
+        "name": "OSN TV - أو إس إن"
       },
       {
-        "id": "1900",
-        "name": "KAMIKAZE LOI"
+        "id": "176",
+        "name": "✅ DOCUMENTARE - وثائقي"
       },
       {
-        "id": "1902",
-        "name": "KAMIKAZE Now HK"
+        "id": "275",
+        "name": "✅ SAUDIA | السعودية"
       },
       {
-        "id": "1899",
-        "name": "KAMIKAZE ULSTER GAA"
+        "id": "272",
+        "name": "✅ ROTANA | روتانا"
       },
       {
-        "id": "1905",
-        "name": "KAMIKAZE Peacock"
+        "id": "279",
+        "name": "✅ EMIRATES | الامارات"
       },
       {
-        "id": "1906",
-        "name": "KAMIKAZE UFC"
+        "id": "282",
+        "name": "✅ KUWAIT | الكويت"
       },
       {
-        "id": "1907",
-        "name": "KAMIKAZE Rugby"
+        "id": "287",
+        "name": "✅ GULF | الخليج"
       },
       {
-        "id": "1908",
-        "name": "KAMIKAZE Scottish"
+        "id": "283",
+        "name": "✅ LEBANON | لبنان"
       },
       {
-        "id": "1909",
-        "name": "KAMIKAZE Sportsnet"
+        "id": "291",
+        "name": "✅ SYRIA | سوريا"
       },
       {
-        "id": "1916",
-        "name": "KAMIKAZE TT RACES"
+        "id": "278",
+        "name": "✅ EGYPT | مصر"
       },
       {
-        "id": "1914",
-        "name": "KAMIKAZE GaaGo"
+        "id": "281",
+        "name": "✅ JORDAN | الاردن"
       },
       {
-        "id": "1915",
-        "name": "KAMIKAZE Stan"
+        "id": "280",
+        "name": "✅ IRAQ | العراق"
       },
       {
-        "id": "1918",
-        "name": "KAMIKAZE Tyrone Gaa"
+        "id": "288",
+        "name": "✅ PALASTINE | فلسطين"
       },
       {
-        "id": "1919",
-        "name": "KAMIKAZE Super League Plus"
+        "id": "293",
+        "name": "✅ YEMEN | اليمن"
       },
       {
-        "id": "1326",
-        "name": "|IE| IRELAND"
+        "id": "286",
+        "name": "✅ MOROCCO | المغرب"
       },
       {
-        "id": "25",
-        "name": "EU| ITALY"
+        "id": "277",
+        "name": "✅ ALGERIA | الجزائر"
       },
       {
-        "id": "2008",
-        "name": "ROLAND GARROS 2026"
+        "id": "292",
+        "name": "✅ TUNISIA | تونس"
       },
       {
-        "id": "2000",
-        "name": "UK| HBO MAX"
+        "id": "290",
+        "name": "✅ SUDAN | السودان"
       },
       {
-        "id": "1766",
-        "name": "MALTA"
+        "id": "284",
+        "name": "✅ LIBYA | ليبيا"
       },
       {
-        "id": "2007",
-        "name": "AR | BEIN MAX"
+        "id": "285",
+        "name": "✅ MAURITANIA | موريتانيا"
       },
       {
-        "id": "1922",
-        "name": "SWITZERLAND BLUE SPORT"
+        "id": "386",
+        "name": "✅ SOMALIA | الصومال"
       },
       {
-        "id": "1835",
-        "name": "SCANDINAV | VIAPLAY"
+        "id": "253",
+        "name": "KIDS | باقة تعلم القرآن ⭐"
       },
       {
-        "id": "1138",
-        "name": "NORWAY"
+        "id": "183",
+        "name": "KIDS | باقة قنوات الأطفال ⭐"
       },
       {
-        "id": "1857",
-        "name": "ICELAND"
+        "id": "181",
+        "name": "KIDS | باقة المجد للأطفال ⭐"
       },
       {
-        "id": "1135",
-        "name": "FINLAND"
+        "id": "250",
+        "name": "KIDS | باقة الحكايات ⭐"
       },
       {
-        "id": "1920",
-        "name": "DENMARK"
+        "id": "252",
+        "name": "KIDS | باقة المغامرات ⭐"
       },
       {
-        "id": "1904",
-        "name": "|SW| SWEDEN"
+        "id": "246",
+        "name": "KIDS | باقة أبطال الأكشن ⭐"
       },
       {
-        "id": "1455",
-        "name": "GEORGIA"
+        "id": "249",
+        "name": "KIDS | باقة الأولاد المغامرون ⭐"
       },
       {
-        "id": "1940",
-        "name": "EU | RUSSIA"
+        "id": "251",
+        "name": "KIDS | باقة الفتيات الخارقات ⭐"
       },
       {
-        "id": "1772",
-        "name": "EU | CZECH"
+        "id": "247",
+        "name": "KIDS | باقة أصدقاؤنا الحيوانات ⭐"
       },
       {
-        "id": "1804",
-        "name": "EU | BULGARIA"
+        "id": "255",
+        "name": "KIDS | باقة مرحلة قبل المدرسة ⭐"
       },
       {
-        "id": "1800",
-        "name": "LITHUANIA"
+        "id": "254",
+        "name": "KIDS | باقة عالم ديزني ⭐"
       },
       {
-        "id": "1801",
-        "name": "ESTONIA"
-      },
-      {
-        "id": "1454",
-        "name": "UKRAIN"
-      },
-      {
-        "id": "28",
-        "name": "GREECE"
-      },
-      {
-        "id": "1957",
-        "name": "GREECE ZONE+"
-      },
-      {
-        "id": "1805",
-        "name": "CYPRUS"
-      },
-      {
-        "id": "1328",
-        "name": "ALBANIA & KOSOVO"
-      },
-      {
-        "id": "15",
-        "name": "EXYU| GENERAL"
-      },
-      {
-        "id": "1320",
-        "name": "EXYU| CROATIA"
-      },
-      {
-        "id": "1319",
-        "name": "EXYU| BOSNIA"
-      },
-      {
-        "id": "1321",
-        "name": "EXYU| SERBIA"
-      },
-      {
-        "id": "1812",
-        "name": " EXYU| MACEDONIA"
-      },
-      {
-        "id": "1428",
-        "name": "EXYU| MONTENEGRO"
-      },
-      {
-        "id": "1325",
-        "name": "EXYU| SLOVENIA"
-      },
-      {
-        "id": "1854",
-        "name": "SLOVAKIA"
-      },
-      {
-        "id": "1417",
-        "name": "HUNGARIAN"
-      },
-      {
-        "id": "1237",
-        "name": "AZERBAIJAN"
-      },
-      {
-        "id": "1867",
-        "name": "TURKISH"
-      },
-      {
-        "id": "33",
-        "name": "KURDISH"
+        "id": "248",
+        "name": "KIDS | باقة أغاني الأطفال ⭐"
       },
       {
         "id": "19",
-        "name": "AFRICA"
+        "name": "KIDS | باقة فوكس كيدز ⭐"
       },
       {
-        "id": "1832",
-        "name": "AF | DSTV"
+        "id": "182",
+        "name": "KIDS | باقة كرتون زمان للأطفال ⭐"
       },
       {
-        "id": "1813",
-        "name": "CANAL+ AFR"
+        "id": "18",
+        "name": "KIDS | باقة الأطفال الترفيهية ⭐"
       },
       {
-        "id": "1958",
-        "name": "CHRISTMAS"
+        "id": "45",
+        "name": "KIDS | باقة الأطفال التعليمية ⭐"
       },
       {
-        "id": "1846",
-        "name": "TENNIS"
+        "id": "10",
+        "name": "KIDS - الاطفال"
       },
       {
-        "id": "1845",
-        "name": "F1 & MOTO GP"
+        "id": "237",
+        "name": "SHAHID VIP - ديجيتال"
       },
       {
-        "id": "1941",
-        "name": "AR | DAZN"
+        "id": "24",
+        "name": "SHAHID VIP - زمان"
       },
       {
-        "id": "1839",
-        "name": "AR | STARZPLAY FHD | HD"
+        "id": "195",
+        "name": "®️ ROYA PLUS ®️ رؤيا بلس"
       },
       {
-        "id": "1923",
-        "name": "JAWWY STC HD"
+        "id": "241",
+        "name": "FilmBox+ فيلم بوكس"
       },
       {
-        "id": "1944",
-        "name": "AR| TOD"
+        "id": "184",
+        "name": "VULTURE ENTERTEMENT - الترفيهية"
       },
       {
-        "id": "1292",
-        "name": "AR| MOROCCO"
+        "id": "238",
+        "name": "SKY ENTERTEMENT - الترفيهية"
       },
       {
-        "id": "1293",
-        "name": "AR| ALGERIA"
+        "id": "8",
+        "name": "BEIN ENTERTAIMENT - بي ان الترفيهيه"
       },
       {
-        "id": "1294",
-        "name": "AR| TUNISIA"
+        "id": "20",
+        "name": "✅ NETFLIX | نتفلكس"
       },
       {
-        "id": "1295",
-        "name": "AR| MBC & MBC HD"
-      },
-      {
-        "id": "1296",
-        "name": "AR| ART & ROTANA"
-      },
-      {
-        "id": "1297",
-        "name": "AR| KIDS"
-      },
-      {
-        "id": "1299",
-        "name": "AR| NEWS & FACTUAL"
-      },
-      {
-        "id": "1465",
-        "name": "AR| MUSIC"
-      },
-      {
-        "id": "1302",
-        "name": "AR| EGYPT"
-      },
-      {
-        "id": "1309",
-        "name": "AR| IRAQ"
-      },
-      {
-        "id": "1304",
-        "name": "AR| UAE"
-      },
-      {
-        "id": "1311",
-        "name": "AR| SYRIA"
-      },
-      {
-        "id": "1303",
-        "name": "AR| LEBANON"
-      },
-      {
-        "id": "1312",
-        "name": "AR| KUWAIT"
-      },
-      {
-        "id": "1300",
-        "name": "AR| SAUDI ARABIA"
-      },
-      {
-        "id": "1301",
-        "name": "AR| ISLAMIC"
-      },
-      {
-        "id": "1317",
-        "name": "AR| SUDAN"
-      },
-      {
-        "id": "1313",
-        "name": "AR| YEMEN"
-      },
-      {
-        "id": "1306",
-        "name": "AR| JORDAN"
-      },
-      {
-        "id": "1310",
-        "name": "AR| PALESTINE"
-      },
-      {
-        "id": "1307",
-        "name": "AR| LIBYA"
-      },
-      {
-        "id": "1308",
-        "name": "AR| CHRISTIAN"
-      },
-      {
-        "id": "1316",
-        "name": "AR| OTHERS"
-      },
-      {
-        "id": "1458",
-        "name": "AUSTRALIA"
-      },
-      {
-        "id": "1468",
-        "name": "ASTRO MALAYSIA"
-      },
-      {
-        "id": "1341",
-        "name": "ASIA| SPORTS"
-      },
-      {
-        "id": "1340",
-        "name": "ASIA| ENGLISH"
-      },
-      {
-        "id": "1078",
-        "name": "ASIA| PAKISTAN"
-      },
-      {
-        "id": "1063",
-        "name": "ASIA| HINDI"
-      },
-      {
-        "id": "1230",
-        "name": "ASIA| TAMIL"
-      },
-      {
-        "id": "1342",
-        "name": "ASIA| TELEGU"
-      },
-      {
-        "id": "1346",
-        "name": "ASIA| MARATHI"
-      },
-      {
-        "id": "1350",
-        "name": "ASIA| BHOJPURI"
-      },
-      {
-        "id": "1843",
-        "name": "ASIA| ODIA"
-      },
-      {
-        "id": "1348",
-        "name": "ASIA| KANNADA"
-      },
-      {
-        "id": "1345",
-        "name": "ASIA| GUJARATI"
-      },
-      {
-        "id": "1347",
-        "name": "ASIA| PUNJABI"
-      },
-      {
-        "id": "1344",
-        "name": "ASIA| BENGALI"
-      },
-      {
-        "id": "1343",
-        "name": "ASIA| BANGLA"
-      },
-      {
-        "id": "1352",
-        "name": "ASIA| MALAYALAM"
-      },
-      {
-        "id": "1862",
-        "name": "ASIA| SINGAPORE"
-      },
-      {
-        "id": "1466",
-        "name": "CHINA"
-      },
-      {
-        "id": "1467",
-        "name": "KOREA"
-      },
-      {
-        "id": "1470",
-        "name": "TAIWAN"
-      },
-      {
-        "id": "1473",
-        "name": "VIETNAM"
-      },
-      {
-        "id": "1472",
-        "name": "INDONESIA"
-      },
-      {
-        "id": "1469",
-        "name": "PHILIPPINE"
-      },
-      {
-        "id": "1474",
-        "name": "THAILAND"
+        "id": "13",
+        "name": "EXCLUSIVE CHANNELS - قنوات حصرية"
       },
       {
         "id": "22",
-        "name": "LATINO GENERAL"
+        "name": "BOX OFFICE ORIGINALS - بوكس اوفيس "
       },
       {
-        "id": "1826",
-        "name": "MEXICO"
+        "id": "191",
+        "name": "MARVEL STUDIOS - مارفيل ستوديوز"
       },
       {
-        "id": "1954",
-        "name": "VIX"
+        "id": "198",
+        "name": "WARNER BROS ORIGINALS - وارنر بروس "
       },
       {
-        "id": "1952",
-        "name": "LATIN| ARGENTINA"
+        "id": "15",
+        "name": "TOD ORIGINALS - تود اورجينال"
       },
       {
-        "id": "53",
-        "name": "AM | HAITI | DOMINICAN"
+        "id": "16",
+        "name": "DISNEY PLUS ORIGINALS - ديزني بلس"
       },
       {
-        "id": "1816",
-        "name": "LATINO | CARRIBEAN"
+        "id": "179",
+        "name": "DISCOVERY+ ORIGINALS - ديسكفري بلس"
       },
       {
-        "id": "1404",
-        "name": "BRAZIL"
+        "id": "178",
+        "name": "ZEE5 ORIGINALS - زيي 5 اورجينال"
       },
       {
-        "id": "1956",
-        "name": "LAT - SURINAME"
+        "id": "142",
+        "name": "SHOOF MAX - شوف ماكس"
       },
       {
-        "id": "1921",
-        "name": "|CA| AHL"
+        "id": "25",
+        "name": "WRESTLING - المصارعة"
       },
       {
-        "id": "54",
-        "name": "CANADA SD"
+        "id": "44",
+        "name": "MUSIC - قنوات الاغاني"
       },
       {
-        "id": "1788",
-        "name": "CANADA HD"
+        "id": "187",
+        "name": "ISLAMIC 2 - الاسلامية"
       },
       {
-        "id": "1485",
-        "name": "QUEBEC"
+        "id": "199",
+        "name": "Christian"
       },
       {
-        "id": "1960",
-        "name": "CANADA EVENTS"
+        "id": "325",
+        "name": "✅ SKY SPORT ITALY | سكاي"
       },
       {
-        "id": "1984",
-        "name": "CA | DAZN [BG]"
+        "id": "324",
+        "name": "✅ SKY SPORT GER | سكاي"
       },
       {
-        "id": "1477",
-        "name": "US| GENERAL"
+        "id": "323",
+        "name": "✅ POLSAT SPORT | بولسات"
       },
       {
-        "id": "1478",
-        "name": "US| ENTERTAINMENT"
+        "id": "322",
+        "name": "✅ ELEVEN SPORTS | ايليفن"
       },
       {
-        "id": "1479",
-        "name": "US| KIDS"
+        "id": "320",
+        "name": "✅ ARENA SPORTS | أرينا"
       },
       {
-        "id": "1970",
-        "name": "US| PLAY KIDZ"
+        "id": "321",
+        "name": "✅ DAZN SPORTS | دازن"
       },
       {
-        "id": "1480",
-        "name": "US| MOVIES"
+        "id": "327",
+        "name": "✅ ZIGGO SPORTS | زيغو سبورت"
       },
       {
-        "id": "1481",
-        "name": "US| MUSIC"
+        "id": "326",
+        "name": "✅ SUPER SPORT AL | سوبر سبورت"
       },
       {
-        "id": "1482",
-        "name": "US| DOCUMENTARY"
+        "id": "265",
+        "name": "✅ YES TV | ياس تي في"
       },
       {
-        "id": "1969",
-        "name": "US| REALITY SHOW"
+        "id": "266",
+        "name": "✅ HOT TV | هوت تي في"
       },
       {
-        "id": "1483",
-        "name": "US| SPORTS"
+        "id": "383",
+        "name": "✅ INDIA GENERAL | الهند"
       },
       {
-        "id": "1925",
-        "name": "US| FLOSPORTS"
+        "id": "201",
+        "name": "✅ INDIA TAMIL & TELUGU | جنوب الهند"
       },
       {
-        "id": "1484",
-        "name": "US| 24/7"
+        "id": "42",
+        "name": "✅ INDIA NEWS | الهند الاخبار"
       },
       {
-        "id": "1968",
-        "name": "US| DISNEY+"
+        "id": "43",
+        "name": "✅ INDIA SPORTS | الهند الرياضة"
       },
       {
-        "id": "1927",
-        "name": "US| PRIME VIDEO"
+        "id": "205",
+        "name": "✅ INDIA SONY | الهند سوني"
       },
       {
-        "id": "1929",
-        "name": "US| APPLE TV+"
+        "id": "76",
+        "name": "✅ INDIA PUNJABI | الهند بنجابي"
       },
       {
-        "id": "1928",
-        "name": "US| HBO MAX ON-DEMAND"
+        "id": "30",
+        "name": "✅ INDIA BANGLA | الهند بنغلا"
       },
       {
-        "id": "1926",
-        "name": "US| HULU ORIGINALS"
+        "id": "385",
+        "name": "✅ PAKISTAN | باكستان"
       },
       {
-        "id": "1936",
-        "name": "|US SPECTRUM NEWS"
+        "id": "31",
+        "name": "✅ PAKISTAN NEWS | الاخبار"
       },
       {
-        "id": "1781",
-        "name": "US| ABC NETWORK"
+        "id": "398",
+        "name": "✅ BANGLADESH | بنغلاديش"
       },
       {
-        "id": "1782",
-        "name": "US| CBS NETWORK"
+        "id": "342",
+        "name": "✅ BELGUM | بلجيكا"
       },
       {
-        "id": "1787",
-        "name": "US| NBC NETWORK"
+        "id": "343",
+        "name": "✅ BELGUM VIP | بلجيكا"
       },
       {
-        "id": "1783",
-        "name": "US| FOX NETWORK"
+        "id": "375",
+        "name": "✅ ARMENIA | أرمينيا"
       },
       {
-        "id": "1853",
-        "name": "US| METV"
+        "id": "384",
+        "name": "✅ IRAN | إيران"
       },
       {
-        "id": "1792",
-        "name": "US| LATINO"
+        "id": "397",
+        "name": "✅ CANADA | كندا"
       },
       {
-        "id": "1785",
-        "name": "US| PBS NETWORK"
+        "id": "371",
+        "name": "✅ CZECH | تشيكيا"
       },
       {
-        "id": "1784",
-        "name": "US| MY & CW NETWORK"
+        "id": "350",
+        "name": "✅ NORWAY | النرويج"
       },
       {
-        "id": "1938",
-        "name": "US| BTN+"
+        "id": "351",
+        "name": "✅ FINLAND | فنلندا"
       },
       {
-        "id": "1776",
-        "name": "US| ESPN+"
+        "id": "347",
+        "name": "✅ SWEDEN | السويد"
       },
       {
-        "id": "1779",
-        "name": "US| NFL SPORTS"
+        "id": "348",
+        "name": "✅ SWEDEN SPORT | الرياضية"
       },
       {
-        "id": "1796",
-        "name": "US| MLS"
+        "id": "352",
+        "name": "✅ SWITZERLAND | سويسرا"
       },
       {
-        "id": "1780",
-        "name": "US| MLB NETWORK"
+        "id": "393",
+        "name": "✅ BRASIL | البرازيل"
       },
       {
-        "id": "1778",
-        "name": "US| NHL SPORTS"
+        "id": "380",
+        "name": "✅ RUSSIA | روسيا"
       },
       {
-        "id": "1777",
-        "name": "US| NBA SPORTS "
+        "id": "381",
+        "name": "✅ RUSSIA VIP | روسيا"
       },
       {
-        "id": "1790",
-        "name": "US| NCAA"
+        "id": "382",
+        "name": "✅ UKRAINA | أوكرانيا"
       },
       {
-        "id": "1786",
-        "name": "US| PPV "
+        "id": "373",
+        "name": "✅ GREECE | اليونان"
       },
       {
-        "id": "1989",
-        "name": "US| PARAMOUNT PPV"
+        "id": "374",
+        "name": "✅ GREECE SPORT | الرياضية"
       },
       {
-        "id": "1931",
-        "name": "US| PARAMOUNT+ ON-DEMAND"
+        "id": "369",
+        "name": "✅ ROMAINA | رومانيا"
       },
       {
-        "id": "1934",
-        "name": "US| PEACOCK ON-DEMAND"
+        "id": "362",
+        "name": "✅ POLAND | بولندا"
       },
       {
-        "id": "1849",
-        "name": "TO TEST NOT TO ADD"
+        "id": "363",
+        "name": "✅ POLAND SPORT | الرياضية"
+      },
+      {
+        "id": "349",
+        "name": "✅ DENMARK | الدنمارك"
+      },
+      {
+        "id": "364",
+        "name": "✅ ALBANIA | ألبانيا"
+      },
+      {
+        "id": "365",
+        "name": "✅ ALBANIA SPORT | الرياضية"
+      },
+      {
+        "id": "366",
+        "name": "✅ BOSNIA | البوسنة"
+      },
+      {
+        "id": "339",
+        "name": "✅ NETHERLAND | هولندا"
+      },
+      {
+        "id": "340",
+        "name": "✅ NETHERLAND VIP | هولندا"
+      },
+      {
+        "id": "341",
+        "name": "✅ NETHERLAND SPORT | الرياضية"
+      },
+      {
+        "id": "372",
+        "name": "✅ PORTUGAL | البرتغال"
+      },
+      {
+        "id": "359",
+        "name": "✅ SPAIN | إسبانيا"
+      },
+      {
+        "id": "360",
+        "name": "✅ SPAIN VIP | إسبانيا"
+      },
+      {
+        "id": "361",
+        "name": "✅ SPAIN SPORT | الرياضية"
+      },
+      {
+        "id": "356",
+        "name": "✅ ITALY | إيطاليا"
+      },
+      {
+        "id": "357",
+        "name": "✅ ITALY TIMENT | الترفيهية"
+      },
+      {
+        "id": "358",
+        "name": "✅ ITALY SPORT | الرياضية"
+      },
+      {
+        "id": "353",
+        "name": "✅ FRANCE | فرنسا"
+      },
+      {
+        "id": "354",
+        "name": "✅ FRANCE TIMENT | الترفيهية"
+      },
+      {
+        "id": "355",
+        "name": "✅ FRANCE SPORT | الرياضية"
+      },
+      {
+        "id": "334",
+        "name": "✅ GERMANY | ألمانيا"
+      },
+      {
+        "id": "336",
+        "name": "✅ GERMANY SPORT | الرياضية"
+      },
+      {
+        "id": "335",
+        "name": "✅ GERMANY TIMENT | الترفيهية"
+      },
+      {
+        "id": "337",
+        "name": "✅ GERMANY DOC | الوثائقية"
+      },
+      {
+        "id": "338",
+        "name": "✅ AUSTRIA VIP | النمسا"
+      },
+      {
+        "id": "14365",
+        "name": "✅ AUSTRALIA | أستراليا"
+      },
+      {
+        "id": "377",
+        "name": "✅ UNITED KINGDOM | بريطانيا"
+      },
+      {
+        "id": "378",
+        "name": "✅ UNITED KINGDOM | الترفيهية"
+      },
+      {
+        "id": "379",
+        "name": "✅ UNITED KINGDOM | الرياضية"
+      },
+      {
+        "id": "395",
+        "name": "✅ UNITED STATES | أمريكا"
+      },
+      {
+        "id": "396",
+        "name": "✅ UNITED STATES | الرياضية"
+      },
+      {
+        "id": "344",
+        "name": "✅ TURKIYE | تركيا"
+      },
+      {
+        "id": "345",
+        "name": "✅ TURKIYE VIP | تركيا"
+      },
+      {
+        "id": "346",
+        "name": "✅ TURKIYE SPORT | الرياضية"
+      },
+      {
+        "id": "333",
+        "name": "✅ KURDISH | الكردية"
+      },
+      {
+        "id": "367",
+        "name": "✅ HUNGARY | المجر"
+      },
+      {
+        "id": "368",
+        "name": "✅ SERBIA | صربيا"
+      },
+      {
+        "id": "370",
+        "name": "✅ BULGARIA | بلغاريا"
+      },
+      {
+        "id": "376",
+        "name": "✅ LITHUANIA | ليتوانيا"
+      },
+      {
+        "id": "389",
+        "name": "✅ AFRICA | أفريقيا"
+      },
+      {
+        "id": "387",
+        "name": "✅ DSTV AFRICA | دي اس"
+      },
+      {
+        "id": "388",
+        "name": "✅ DSTV SPORT | الرياضية"
+      },
+      {
+        "id": "394",
+        "name": "✅ ARGENTINA | الأرجنتين"
+      },
+      {
+        "id": "399",
+        "name": "✅ PHILIPPINES | الفلبين"
+      },
+      {
+        "id": "302",
+        "name": "✅ VIETNAM | فيتنام"
+      },
+      {
+        "id": "301",
+        "name": "✅ INDONESIA | إندونيسيا"
       }
     ],
     "id": "19"
