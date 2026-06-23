@@ -64,7 +64,7 @@
     "type": "xtream",
     "xtream_url": "http://185.191.126.127:8080/get.php?username=357643467990765&password=Ofgo3yz8CH&type=m3u_plus&output=ts",
     "hidden": false,
-    "stream_format": "m3u8",
+    "stream_format": "ts",
     "selected_packages": [],
     "xtream_categories": [
       {
