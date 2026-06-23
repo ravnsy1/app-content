@@ -2977,7 +2977,7 @@
         "url": "https://stream.camcloud.stream/stream/b506fd9b9327/playlist.m3u8",
         "user_agent": "",
         "referer": "",
-        "origin": "",
+        "origin": "https://x.com",
         "cookie": "",
         "drm_scheme": "",
         "clearkey_key": "",
