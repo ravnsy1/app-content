@@ -3559,8 +3559,8 @@
         "hidden": false
       },
       {
-        "name": "SS",
-        "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8",
+        "name": "TOD HDR",
+        "url": "https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
@@ -3575,8 +3575,8 @@
         "hidden": false
       },
       {
-        "name": "TOD HDR",
-        "url": "https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8",
+        "name": "SS",
+        "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
