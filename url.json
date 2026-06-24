@@ -3495,8 +3495,8 @@
         "hidden": false
       },
       {
-        "name": "SS",
-        "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8",
+        "name": "احتياطي",
+        "url": "https://stm.linkip.org/live/1965_.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
@@ -3511,8 +3511,8 @@
         "hidden": false
       },
       {
-        "name": "احتياطي",
-        "url": "https://stm.linkip.org/live/1965_.m3u8",
+        "name": "SS",
+        "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
