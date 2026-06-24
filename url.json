@@ -3493,6 +3493,22 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
+      },
+      {
+        "name": "جودة ضعيفة جدا",
+        "url": "http://het103c.ycn-redirect.com/live/79247621/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "referer": "https://x.com/",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "widevine_key": "",
+        "widevine_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
       }
     ]
   },
