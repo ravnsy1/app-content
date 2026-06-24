@@ -3479,10 +3479,10 @@
         "hidden": false
       },
       {
-        "name": "SS",
-        "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8",
-        "user_agent": "",
-        "referer": "",
+        "name": "جودة ضعيفة",
+        "url": "http://het128a.ycn-redirect.com/live/14066007/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "referer": "https://x.com/",
         "origin": "",
         "cookie": "",
         "drm_scheme": "",
@@ -3495,10 +3495,10 @@
         "hidden": false
       },
       {
-        "name": "جودة ضعيفة",
-        "url": "http://het128a.ycn-redirect.com/live/14066007/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-        "referer": "https://x.com/",
+        "name": "SS",
+        "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8",
+        "user_agent": "",
+        "referer": "",
         "origin": "",
         "cookie": "",
         "drm_scheme": "",
