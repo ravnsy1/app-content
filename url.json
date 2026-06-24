@@ -3557,6 +3557,22 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
+      },
+      {
+        "name": "احتياطي 2",
+        "url": "https://live.aab1.top:443/odai/123321/69.ts",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "widevine_key": "",
+        "widevine_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
       }
     ]
   },
