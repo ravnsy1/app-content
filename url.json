@@ -3053,22 +3053,6 @@
         "hidden": false
       },
       {
-        "name": "blue 2",
-        "url": "https://bluesport.live/live/blue_sport_2/index.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-P610 Build/QP1A.190711.020)",
-        "referer": "https://x.com",
-        "origin": "https://x.com",
-        "cookie": "",
-        "drm_scheme": "",
-        "clearkey_key": "",
-        "clearkey_kid": "",
-        "widevine_key": "",
-        "widevine_kid": "",
-        "drm_license_url": "",
-        "headers": [],
-        "hidden": false
-      },
-      {
         "name": "سيرفر ثابت",
         "url": "http://217.60.15.235:2095/live/omar777/01103978590/460862.ts?token=yafHbHd.UXzyUcb.X.fHzfbaa.ydzdzzzzcf.X.y.EG.ts.77160b64538e7ff5ef17cb6b0741bb7e29e6b7e9d555146708740b5f199f9119.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
         "user_agent": "",
