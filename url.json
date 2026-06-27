@@ -3107,7 +3107,7 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/_ktDrK2_butMy7q4h6Rb6Wa6DUDxD7AUxno3TRdZ8IdwHDVcR03cYynZ-xB5WMU5TZMcSuSUCFbuMXQlxUEljQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
+        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/_ktDrK2_butMy7q4h6Rb6Wa6DUDxD7AUxno3TRdZ8IdwHDVcR03cYynZ-xB5WMU5TZMcSuSUCFbuMXQlxUEljQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "referer": "https://x.com/",
         "origin": "",
