@@ -3059,7 +3059,7 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/_ktDrK2_butMy7q4h6Rb6Wa6DUDxD7AUxno3TRdZ8IdwHDVcR03cYynZ-xB5WMU5TZMcSuSUCFbuMXQlxUEljQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "http://het101a.metava.online/live/1515000000/index.m3u8?t=zelBCwJJGeFgvWHxGDzCfQ&e=1782779254",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "referer": "https://x.com/",
         "origin": "",
