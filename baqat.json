@@ -66,742 +66,582 @@
     "hidden": false,
     "stream_format": "ts",
     "selected_packages": [
-      "681",
-      "646",
-      "670",
-      "679",
-      "672",
-      "678",
-      "677",
-      "611",
-      "118",
-      "52",
-      "50",
-      "49",
-      "293",
-      "286",
-      "151",
-      "580",
-      "471",
-      "545",
-      "473",
-      "472",
-      "549",
-      "644",
-      "628",
-      "428",
-      "477",
-      "507",
-      "603",
-      "645",
-      "465",
-      "619",
-      "194",
-      "590",
-      "601",
-      "600",
-      "459",
-      "535",
-      "647",
-      "648",
-      "650",
-      "671",
-      "547",
-      "245",
-      "589",
-      "259",
-      "424",
-      "519",
-      "518",
-      "129",
-      "242",
-      "504",
-      "480",
-      "130",
-      "596",
-      "418",
-      "319",
-      "246",
-      "311",
-      "268",
-      "667",
-      "527",
-      "134",
-      "525",
-      "389",
-      "146",
-      "156",
-      "116",
-      "188",
-      "179",
-      "234",
-      "265",
-      "337",
-      "174",
-      "360",
-      "142",
-      "152",
-      "145",
-      "213",
-      "219",
-      "189",
-      "218",
-      "173",
-      "217",
-      "143",
-      "144",
-      "195",
-      "138",
-      "484",
-      "137",
-      "464",
-      "361",
-      "147",
-      "162",
-      "64",
-      "368",
-      "277",
-      "20",
-      "63",
-      "70",
-      "103",
-      "23",
-      "22",
-      "229",
-      "54",
-      "429",
-      "171",
-      "244",
-      "490",
+      "5854",
+      "5860",
+      "5835",
+      "5859",
+      "702",
+      "5757",
+      "5845",
+      "5844",
+      "5840",
+      "721",
+      "5851",
+      "5846",
+      "177",
+      "5763",
+      "14",
+      "88",
+      "5862",
+      "4",
       "21",
-      "374",
-      "370",
-      "372",
-      "341",
-      "93",
-      "431",
-      "375",
-      "384",
-      "388",
-      "241",
-      "377",
-      "71",
-      "373",
-      "387",
-      "489",
-      "378",
-      "296",
-      "210",
-      "167",
-      "383",
-      "610",
-      "365",
-      "367",
-      "369",
-      "380",
-      "381",
-      "379",
-      "385",
-      "382",
-      "94",
-      "214",
+      "112",
+      "18",
+      "5858",
+      "3",
+      "8",
+      "10",
+      "44",
+      "5852",
+      "17",
+      "65",
+      "13",
+      "96",
+      "110",
+      "114",
+      "90",
+      "5809",
+      "5",
+      "5850",
+      "5849",
+      "5848",
+      "109",
+      "113",
+      "61",
+      "5760",
+      "116",
+      "108",
+      "111",
+      "58",
+      "148",
+      "164",
+      "80",
+      "5828",
+      "729",
+      "5856",
+      "95",
+      "5827",
+      "158",
+      "5832",
+      "106",
+      "100",
+      "725",
+      "5731",
+      "5735",
+      "147",
+      "142",
+      "155",
+      "154",
+      "5733",
+      "160",
+      "103",
+      "146",
+      "159",
+      "140",
+      "129",
+      "5736",
+      "5822",
+      "130",
+      "5732",
+      "5767",
       "153",
-      "211",
-      "366",
-      "316",
-      "371",
-      "386",
-      "209",
-      "68"
+      "694",
+      "5740",
+      "5744",
+      "134",
+      "133",
+      "136",
+      "128",
+      "693",
+      "5836",
+      "5833",
+      "232",
+      "227",
+      "5820",
+      "5826",
+      "5829",
+      "5793",
+      "5824",
+      "5825",
+      "5830",
+      "5831",
+      "5795",
+      "5741",
+      "5857",
+      "145",
+      "5792",
+      "5737",
+      "102",
+      "5798",
+      "5765",
+      "5794",
+      "5743",
+      "5855",
+      "5742",
+      "5861",
+      "5863",
+      "5864"
     ],
     "xtream_categories": [
       {
-        "id": "681",
-        "name": "XTV FWC | Replay"
+        "id": "5854",
+        "name": "BEIN SPORTS 4K"
       },
       {
-        "id": "646",
-        "name": "ALWAN - باقة الوان-كآس العالم"
+        "id": "5860",
+        "name": "ALWAN SPORTS [WORLDCUP]"
       },
       {
-        "id": "670",
-        "name": "World Cup 2026 | كاس العالم |AR|"
+        "id": "5835",
+        "name": "BEIN SPORTS [VIP]"
       },
       {
-        "id": "679",
-        "name": "Family|Bein Max | كاس العالم"
+        "id": "5859",
+        "name": "WORLD CUP 2026 [VIP]"
       },
       {
-        "id": "672",
-        "name": "[Beta] Bein MAX ABR"
+        "id": "702",
+        "name": "EGYPT SPORTS [VIP]"
       },
       {
-        "id": "678",
-        "name": "World Cup 2026 | كاس العالم |EN|"
+        "id": "5757",
+        "name": "SAUDIA SPORTS [VIP]"
       },
       {
-        "id": "677",
-        "name": "World Cup 2026 | اجنبي |"
+        "id": "5845",
+        "name": "ALWAN SPORTS [VIP]"
       },
       {
-        "id": "611",
-        "name": "XTV  Updates"
+        "id": "5844",
+        "name": "SHASHA SPORTS [VIP]"
       },
       {
-        "id": "118",
-        "name": "Bein Sports Low"
+        "id": "5840",
+        "name": "ALKASS SPORTS [VIP]"
       },
       {
-        "id": "52",
-        "name": "Bein Sport SD"
+        "id": "721",
+        "name": "EMIRATES SPORTS [VIP]"
       },
       {
-        "id": "50",
-        "name": "Bein Sport HD"
+        "id": "5851",
+        "name": "MOROCCO SPORTS [VIP]"
       },
       {
-        "id": "49",
-        "name": "Bein Sports 4K"
+        "id": "5846",
+        "name": "SHAHID SPORTS [VIP]"
       },
       {
-        "id": "293",
-        "name": "Bein Sports Hevc"
+        "id": "177",
+        "name": "FRANCE SPORTS [VIP]"
       },
       {
-        "id": "286",
-        "name": "Bein Sports Ultra 4K"
+        "id": "5763",
+        "name": "USA [VIP]"
       },
       {
-        "id": "151",
-        "name": "Bein Sport H265"
+        "id": "14",
+        "name": "NEWS [VIP]"
       },
       {
-        "id": "580",
-        "name": "BeIN || G ||"
+        "id": "88",
+        "name": "OSN [VIP]"
       },
       {
-        "id": "471",
-        "name": "BeIN FHD  || Family ||"
+        "id": "5862",
+        "name": "TOP ARABIC [VIP]"
       },
       {
-        "id": "545",
-        "name": "BeIN SD  || Family ||"
-      },
-      {
-        "id": "473",
-        "name": "BeIN SD  || P2P ||"
-      },
-      {
-        "id": "472",
-        "name": "BeIN HD  || P2P ||"
-      },
-      {
-        "id": "549",
-        "name": "BeIN FHD  || P2P ||"
-      },
-      {
-        "id": "644",
-        "name": "Thamanya - الدوري السعودي"
-      },
-      {
-        "id": "628",
-        "name": "BeIN XTRA"
-      },
-      {
-        "id": "428",
-        "name": "Bein Sports AFC"
-      },
-      {
-        "id": "477",
-        "name": "BeiN Sports English"
-      },
-      {
-        "id": "507",
-        "name": "قنوات عربية ناقلة للمباريات"
-      },
-      {
-        "id": "603",
-        "name": "كاس الاتحاد الانجليزي"
-      },
-      {
-        "id": "645",
-        "name": "Bundesliga - الدوري الالماني"
-      },
-      {
-        "id": "465",
-        "name": "Starz Play | الدوري الايطالي"
-      },
-      {
-        "id": "619",
-        "name": "ON TIME SPORTS"
-      },
-      {
-        "id": "194",
-        "name": "Arabic Sports"
-      },
-      {
-        "id": "590",
-        "name": "Clubs TV - قنوات الاندية"
-      },
-      {
-        "id": "601",
-        "name": "MLS | الدوري الامريكي |"
-      },
-      {
-        "id": "600",
-        "name": "Tennis - بطولات التنس"
-      },
-      {
-        "id": "459",
-        "name": "WWE LIVE"
-      },
-      {
-        "id": "535",
-        "name": "X Series Live 24/7"
-      },
-      {
-        "id": "647",
-        "name": "[X] X - VIP "
-      },
-      {
-        "id": "648",
-        "name": "[X] Infinity HD"
-      },
-      {
-        "id": "650",
-        "name": "[X] SERIES NONSTOP - مسلسلات طوال اليوم"
-      },
-      {
-        "id": "671",
-        "name": "Shahid Vip - شاهد"
-      },
-      {
-        "id": "547",
-        "name": "#MEDIA - هاشتاج"
-      },
-      {
-        "id": "245",
-        "name": "Stars Club"
-      },
-      {
-        "id": "589",
-        "name": "XTV Live"
-      },
-      {
-        "id": "259",
-        "name": "Xiptv Radio"
-      },
-      {
-        "id": "424",
-        "name": "Box OFFICE"
-      },
-      {
-        "id": "519",
-        "name": "Home OFFICE"
-      },
-      {
-        "id": "518",
-        "name": "Movies Club"
-      },
-      {
-        "id": "129",
-        "name": "Majestic | ماجستيك"
-      },
-      {
-        "id": "242",
-        "name": "Bein Movies HD"
-      },
-      {
-        "id": "504",
-        "name": "OSN HD - اوسن"
-      },
-      {
-        "id": "480",
-        "name": "Shahid TV Orignal"
-      },
-      {
-        "id": "130",
-        "name": "Netflix | نتفلكس"
-      },
-      {
-        "id": "596",
-        "name": "ROYA "
-      },
-      {
-        "id": "418",
-        "name": "Radio NileSat"
-      },
-      {
-        "id": "319",
-        "name": "Quran Kareem"
-      },
-      {
-        "id": "246",
-        "name": "MBC HD-4K - ام بي سي"
-      },
-      {
-        "id": "311",
-        "name": "Rotana HD"
-      },
-      {
-        "id": "268",
-        "name": "ALMAJD - المجد"
-      },
-      {
-        "id": "667",
-        "name": "Christian Plus"
-      },
-      {
-        "id": "527",
-        "name": "Documentary Channels - قنوات وثائقية"
-      },
-      {
-        "id": "134",
-        "name": "Kids Channels - قنوات الاطفال"
-      },
-      {
-        "id": "525",
-        "name": "Food Channels | قنوات الطعام |"
-      },
-      {
-        "id": "389",
-        "name": "Kids English Channels - قنوات الاطفال بالانجليزية"
-      },
-      {
-        "id": "146",
-        "name": "Egypt - مصر"
-      },
-      {
-        "id": "156",
-        "name": "Amos - اموس"
-      },
-      {
-        "id": "116",
-        "name": "Yaha Sat Sports - ياهاسات"
-      },
-      {
-        "id": "188",
-        "name": "News Channels - الاخبار"
-      },
-      {
-        "id": "179",
-        "name": "Qatar - قطر"
-      },
-      {
-        "id": "234",
-        "name": "Saudi - السعودية"
-      },
-      {
-        "id": "265",
-        "name": "UAE - الامارات"
-      },
-      {
-        "id": "337",
-        "name": "Palestine Sports - فلسطين سبورت"
-      },
-      {
-        "id": "174",
-        "name": "Palestine - فلسطين"
-      },
-      {
-        "id": "360",
-        "name": "Bahrain - البحرين"
-      },
-      {
-        "id": "142",
-        "name": "Syrian - سوريا"
-      },
-      {
-        "id": "152",
-        "name": "Lebanon - لبنان"
-      },
-      {
-        "id": "145",
-        "name": "Iraq - العراق"
-      },
-      {
-        "id": "213",
-        "name": "Yemen - اليمن"
-      },
-      {
-        "id": "219",
-        "name": "Oman - عمان"
-      },
-      {
-        "id": "189",
-        "name": "Jordan - الاردن"
-      },
-      {
-        "id": "218",
-        "name": "Kuwait - الكويت"
-      },
-      {
-        "id": "173",
-        "name": "Sudan - السودان"
-      },
-      {
-        "id": "217",
-        "name": "Libya - ليبيا"
-      },
-      {
-        "id": "143",
-        "name": "Tunisia - تونس"
-      },
-      {
-        "id": "144",
-        "name": "Morocco - المغرب"
-      },
-      {
-        "id": "195",
-        "name": "Algeria - الجزائر"
-      },
-      {
-        "id": "138",
-        "name": "Islamic Channels - القنوات الاسلامية"
-      },
-      {
-        "id": "484",
-        "name": "Quran TV - قرأن كريم"
-      },
-      {
-        "id": "137",
-        "name": "Christian Channels - القنوات المسيحية"
-      },
-      {
-        "id": "464",
-        "name": "DSTV"
-      },
-      {
-        "id": "361",
-        "name": "NBA"
-      },
-      {
-        "id": "147",
-        "name": "France - فرنسا"
-      },
-      {
-        "id": "162",
-        "name": "Russia - روسيا"
-      },
-      {
-        "id": "64",
-        "name": "USA - الولايات المتحدة الامريكية"
-      },
-      {
-        "id": "368",
-        "name": "Starz USA"
-      },
-      {
-        "id": "277",
-        "name": "Canada - كندا"
-      },
-      {
-        "id": "20",
-        "name": "UK - المملكة المتحدة ( بريطانيا )"
-      },
-      {
-        "id": "63",
-        "name": "Netherland - هولندا"
-      },
-      {
-        "id": "70",
-        "name": "Portugal - البرتغال"
-      },
-      {
-        "id": "103",
-        "name": "Greece - اليونان"
-      },
-      {
-        "id": "23",
-        "name": "Italy - ايطاليا"
-      },
-      {
-        "id": "22",
-        "name": "Germany - المانيا"
-      },
-      {
-        "id": "229",
-        "name": "Belgium - بلجيكا"
-      },
-      {
-        "id": "54",
-        "name": "Spain - اسبانيا"
-      },
-      {
-        "id": "429",
-        "name": "Switzerland - سويسرا"
-      },
-      {
-        "id": "171",
-        "name": "Sweden - السويد"
-      },
-      {
-        "id": "244",
-        "name": "Denmark - الدنمارك"
-      },
-      {
-        "id": "490",
-        "name": "Norway - النرويج"
+        "id": "4",
+        "name": "MBC [VIP]"
       },
       {
         "id": "21",
-        "name": "Turky - تركيا"
+        "name": "ROTANA [VIP]"
       },
       {
-        "id": "374",
-        "name": "Croatia - كرواتيا"
+        "id": "112",
+        "name": "JORDAN [VIP]"
       },
       {
-        "id": "370",
-        "name": "Czech Republic - التشيك"
+        "id": "18",
+        "name": "TUNISIA [VIP]"
       },
       {
-        "id": "372",
-        "name": "Austria - النمسا"
+        "id": "5858",
+        "name": "LEBANON & USA BESTOF"
       },
       {
-        "id": "341",
-        "name": "Albania - البانيا"
+        "id": "3",
+        "name": "LEBANON [VIP]"
       },
       {
-        "id": "93",
-        "name": "Romania - رومانيا"
+        "id": "8",
+        "name": "EGYPT [VIP]"
       },
       {
-        "id": "431",
-        "name": "Bulgaria - بلغاريا"
+        "id": "10",
+        "name": "MOROCCO [VIP]"
       },
       {
-        "id": "375",
-        "name": "macedonia - مقدونيا"
+        "id": "44",
+        "name": "ALGERIA [VIP]"
       },
       {
-        "id": "384",
-        "name": "Ukraine - اوكرانيا"
+        "id": "5852",
+        "name": "CANAL FRANCE [VIP]"
       },
       {
-        "id": "388",
-        "name": "Slovenia - سلوفينيا"
+        "id": "17",
+        "name": "FRANCE [VIP]"
       },
       {
-        "id": "241",
-        "name": "Australia - استراليا"
+        "id": "65",
+        "name": "SYRIA [VIP]"
       },
       {
-        "id": "377",
-        "name": "Hungary - المجر"
+        "id": "13",
+        "name": "IRAQ [VIP]"
       },
       {
-        "id": "71",
-        "name": "Poland - بولندا"
+        "id": "96",
+        "name": "PALESTINE [VIP]"
       },
       {
-        "id": "373",
-        "name": "Armenia - ارمينيا"
+        "id": "110",
+        "name": "EMIRATES [VIP]"
       },
       {
-        "id": "387",
-        "name": "Serbia - صربيا"
+        "id": "114",
+        "name": "ARABIA SAUDIA [VIP]"
       },
       {
-        "id": "489",
-        "name": "Lithuania - ليتوانيا"
+        "id": "90",
+        "name": "ISLAMIC [VIP]"
       },
       {
-        "id": "378",
-        "name": "Iran - ايران"
+        "id": "5809",
+        "name": "ALMAJD [VIP]"
       },
       {
-        "id": "296",
-        "name": "Japan"
+        "id": "5",
+        "name": "KIDS [VIP]"
       },
       {
-        "id": "210",
-        "name": "Bosna - البوسنة"
+        "id": "5850",
+        "name": "KITCHEN ARABIC [VIP]"
       },
       {
-        "id": "167",
-        "name": "China - الصين"
+        "id": "5849",
+        "name": "MUSIC TARAB [VIP]"
       },
       {
-        "id": "383",
-        "name": "Finland - فنلندا"
+        "id": "5848",
+        "name": "MUSIC ARAB [VIP]"
       },
       {
-        "id": "610",
-        "name": "Hong Kong"
+        "id": "109",
+        "name": "NETFLIX [VIP]"
       },
       {
-        "id": "365",
-        "name": "Latina"
+        "id": "113",
+        "name": "KUWAIT [VIP]"
       },
       {
-        "id": "367",
-        "name": "Mexico - المكسيك"
+        "id": "61",
+        "name": "LIBYA [VIP]"
       },
       {
-        "id": "369",
-        "name": "Ecuador - الاكوادور"
+        "id": "5760",
+        "name": "QATAR [VIP]"
       },
       {
-        "id": "380",
-        "name": "Colombia - كولومبيا"
+        "id": "116",
+        "name": "BAHRAIN [VIP]"
       },
       {
-        "id": "381",
-        "name": "CHILE - تشيلي"
+        "id": "108",
+        "name": "YAMEN [VIP]"
       },
       {
-        "id": "379",
-        "name": "Peru - بيرو"
+        "id": "111",
+        "name": "OMAN [VIP]"
       },
       {
-        "id": "385",
-        "name": "Uruguay - الاورغواي"
+        "id": "58",
+        "name": "SOUDAN [VIP]"
       },
       {
-        "id": "382",
-        "name": "Bolivia - بوليفيا"
+        "id": "148",
+        "name": "MAURITANIA [VIP]"
       },
       {
-        "id": "94",
-        "name": "India - الهند"
+        "id": "164",
+        "name": "SHAHID & MUSALSALAT [VIP]"
       },
       {
-        "id": "214",
-        "name": "Azərbaycan - اذربيخان"
+        "id": "80",
+        "name": "CHRISTIAN [VIP]"
+      },
+      {
+        "id": "5828",
+        "name": "CANADA SPORTS [VIP]"
+      },
+      {
+        "id": "729",
+        "name": "CANADA [VIP]"
+      },
+      {
+        "id": "5856",
+        "name": "TAIWAN"
+      },
+      {
+        "id": "95",
+        "name": "GERMANY [VIP]"
+      },
+      {
+        "id": "5827",
+        "name": "GERMANY SPORTS [VIP]"
+      },
+      {
+        "id": "158",
+        "name": "UK [VIP]"
+      },
+      {
+        "id": "5832",
+        "name": "UK SPORTS [VIP]"
+      },
+      {
+        "id": "106",
+        "name": "ITALIA [VIP]"
+      },
+      {
+        "id": "100",
+        "name": "TURK [VIP]"
+      },
+      {
+        "id": "725",
+        "name": "KURD [VIP]"
+      },
+      {
+        "id": "5731",
+        "name": "IRAN [VIP]"
+      },
+      {
+        "id": "5735",
+        "name": "PAKISTAN"
+      },
+      {
+        "id": "147",
+        "name": "NORWAY [VIP]"
+      },
+      {
+        "id": "142",
+        "name": "SWEDEN [VIP]"
+      },
+      {
+        "id": "155",
+        "name": "DANEMARK [VIP]"
+      },
+      {
+        "id": "154",
+        "name": "POLAND"
+      },
+      {
+        "id": "5733",
+        "name": "FINLAND"
+      },
+      {
+        "id": "160",
+        "name": "NETHERLANDS [VIP]"
+      },
+      {
+        "id": "103",
+        "name": "BELGIQUE [VIP]"
+      },
+      {
+        "id": "146",
+        "name": "SPAIN [VIP]"
+      },
+      {
+        "id": "159",
+        "name": "PORTUGAL"
+      },
+      {
+        "id": "140",
+        "name": "SUISSE [VIP]"
+      },
+      {
+        "id": "129",
+        "name": "AUSTRIA [VIP]"
+      },
+      {
+        "id": "5736",
+        "name": "MALTA [VIP]"
+      },
+      {
+        "id": "5822",
+        "name": "BOSNIA"
+      },
+      {
+        "id": "130",
+        "name": "BULGARIA"
+      },
+      {
+        "id": "5732",
+        "name": "HUNGARY"
+      },
+      {
+        "id": "5767",
+        "name": "SERBIA"
       },
       {
         "id": "153",
-        "name": "Kurdi - كردستان"
+        "name": "GREECE"
       },
       {
-        "id": "211",
-        "name": "Pakistan - باكستان"
+        "id": "694",
+        "name": "RUSSIA"
       },
       {
-        "id": "366",
-        "name": "Malaysia - ماليزيا"
+        "id": "5740",
+        "name": "UKRAINE"
       },
       {
-        "id": "316",
-        "name": "Philippines - الفلبين"
+        "id": "5744",
+        "name": "ROMANIA"
       },
       {
-        "id": "371",
-        "name": "Indonesia - اندونيسيا"
+        "id": "134",
+        "name": "CROATIA"
       },
       {
-        "id": "386",
-        "name": "Latvia - لاتيفيا"
+        "id": "133",
+        "name": "ARMENIA"
       },
       {
-        "id": "209",
-        "name": "Afghan - افغانستان"
+        "id": "136",
+        "name": "CZECH"
       },
       {
-        "id": "68",
-        "name": "Africa - افريقيا"
+        "id": "128",
+        "name": "ALBANIA"
+      },
+      {
+        "id": "693",
+        "name": "AUSTRALIA"
+      },
+      {
+        "id": "5836",
+        "name": "SOUTH AFRICA"
+      },
+      {
+        "id": "5833",
+        "name": "AFRICA SPORTS [VIP]"
+      },
+      {
+        "id": "232",
+        "name": "AFRICA [VIP]"
+      },
+      {
+        "id": "227",
+        "name": "SOMALIA [VIP]"
+      },
+      {
+        "id": "5820",
+        "name": "MALI [VIP]"
+      },
+      {
+        "id": "5826",
+        "name": "MUSICA [VIP]"
+      },
+      {
+        "id": "5829",
+        "name": "LATINO SPORTS [VIP]"
+      },
+      {
+        "id": "5793",
+        "name": "LATINO [VIP]"
+      },
+      {
+        "id": "5824",
+        "name": "CARAIBES SPORTS [VIP]"
+      },
+      {
+        "id": "5825",
+        "name": "CARAIBES [VIP]"
+      },
+      {
+        "id": "5830",
+        "name": "HAITI SPORTS [VIP]"
+      },
+      {
+        "id": "5831",
+        "name": "HAITI [VIP]"
+      },
+      {
+        "id": "5795",
+        "name": "AMERICA LATINO +"
+      },
+      {
+        "id": "5741",
+        "name": "ARGENTINA"
+      },
+      {
+        "id": "5857",
+        "name": "BRASILIA SPORTS"
+      },
+      {
+        "id": "145",
+        "name": "BRASILIA"
+      },
+      {
+        "id": "5792",
+        "name": "COLOMBIA"
+      },
+      {
+        "id": "5737",
+        "name": "MALAYSIA"
+      },
+      {
+        "id": "102",
+        "name": "AZERBAIDJAN"
+      },
+      {
+        "id": "5798",
+        "name": "BENGLADESH"
+      },
+      {
+        "id": "5765",
+        "name": "NEPAL"
+      },
+      {
+        "id": "5794",
+        "name": "ASIA +"
+      },
+      {
+        "id": "5743",
+        "name": "INDIA"
+      },
+      {
+        "id": "5855",
+        "name": "ISRAEL"
+      },
+      {
+        "id": "5742",
+        "name": "CHINA"
+      },
+      {
+        "id": "5861",
+        "name": "BRASILIA SPORTS [VIP]"
+      },
+      {
+        "id": "5863",
+        "name": "NORWAY SPORTS"
+      },
+      {
+        "id": "5864",
+        "name": "SPAIN & LATINO SPORTS [VIP]"
       }
     ],
     "id": "19"
