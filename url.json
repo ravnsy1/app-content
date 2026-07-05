@@ -2862,7 +2862,7 @@
       },
       {
         "name": "SD",
-        "url": "https://stream.cdnstream.stream/stream/19f895c3cba6/playlist.m3u8",
+        "url": "https://rznalpha.staticdev9.workers.dev?streamid=max1sd.ts",
         "user_agent": "",
         "referer": "",
         "origin": "",
