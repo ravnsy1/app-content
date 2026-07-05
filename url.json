@@ -3171,7 +3171,7 @@
       },
       {
         "name": "MAX 2 4K",
-        "url": "https://max.st-plasma.workers.dev/max24k/index.m3u8",
+        "url": "https://rznalpha.staticdev9.workers.dev?streamid=max2hd.ts",
         "user_agent": "",
         "referer": "",
         "origin": "",
