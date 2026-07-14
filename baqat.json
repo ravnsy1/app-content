@@ -652,7 +652,7 @@
     "type": "xtream",
     "xtream_url": "http://mavpro.xyz:8080/get.php?username=8454745cdsdw&password=8455144xsfdd&type=m3u_plus",
     "hidden": false,
-    "stream_format": "m3u8",
+    "stream_format": "ts",
     "selected_packages": [],
     "xtream_categories": [
       {
