@@ -1,1 +1,7 @@
-A2EZAxZaEgRWbBUpFXAPAXoYXFEbNUAVVGA9YFFyFQM2ClRGT2oSBjstQSUfcnxxDD0bD2dwEgRWbkIyHXAPAXoDTVcdah0LGy1BMAM9G1khEQMbXWgCCxEpQ24BOkUeLRhcUQMxX0FLdAN1RWUBFDsPSkcadkJFBT9ALwM2CBlsXgwSWWRKVxAoU2YFK0VEZQYKVjIgXlEFbj1gUS8/fA==
+[
+  {
+    "id": "server1",
+    "name": "Maven IPTV",
+    "url": "http://185.191.126.127:8080/get.php?username=b0:99:d7:15:88:50&password=3090914536649669&type=m3u_plus"
+  }
+]
