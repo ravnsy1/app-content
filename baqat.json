@@ -20,7 +20,7 @@
     "logo": "https://cityupload.io/2026/06/٢٠٢٦٠٦١١-٠٩٣٣٤١.png",
     "type": "iptv",
     "xtream_url": "",
-    "hidden": false,
+    "hidden": true,
     "m3u_url": "https://github.com/zezo81795-cell/IO/raw/refs/heads/main/BABTV.M3U",
     "id": "24"
   },
