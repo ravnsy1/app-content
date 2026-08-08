@@ -16,11 +16,11 @@
     "id": "14"
   },
   {
-    "name": "كأس العالم  VIP",
-    "logo": "https://cityupload.io/2026/06/٢٠٢٦٠٦١١-٠٩٣٣٤١.png",
+    "name": "beIN Sports VIP",
+    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
     "type": "iptv",
     "xtream_url": "",
-    "hidden": true,
+    "hidden": false,
     "m3u_url": "https://github.com/zezo81795-cell/IO/raw/refs/heads/main/BEINSPORTS.M3U",
     "id": "24"
   },
