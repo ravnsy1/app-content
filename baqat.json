@@ -33,14 +33,6 @@
     "id": "0"
   },
   {
-    "name": "beIN Sports FR/EN",
-    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": true,
-    "id": "15"
-  },
-  {
     "name": "رياضة عربية",
     "logo": "https://cityupload.io/2026/08/٢٠٢٦٠٨٠٨-١٣٠٠١٧.png",
     "type": "iptv",
@@ -48,6 +40,14 @@
     "hidden": false,
     "m3u_url": "https://github.com/zezo81795-cell/IO/raw/refs/heads/main/ARBIC%20SPORT.M3U",
     "id": "25"
+  },
+  {
+    "name": "beIN Sports FR/EN",
+    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": true,
+    "id": "15"
   },
   {
     "name": "IPTV SPORTS VIP",
